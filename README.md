@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -64,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
