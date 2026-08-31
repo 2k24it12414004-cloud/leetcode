@@ -1,17 +1,17 @@
 class Solution {
 public:
-//naive by me thinking
+//raghav garg max heap better also by min heap but log(n!) time complexity
     int kthSmallest(vector<vector<int>>& matrix, int k) {
-        vector<int>temp;
-    for(int i=0;i<matrix.size();i++){
-        for(int j=0;j<matrix[i].size();j++){
-           temp.push_back(matrix[i][j]);
+        priority_queue<int>pq;
+        for(int i=0;i<matrix.size();i++){
+            for(int j=0;j<matrix[i].size();j++){
+                pq.push(matrix[i][j]);
+                if(pq.size()>k){
+                    pq.pop();
+                }
+
+            }
         }
-    } 
-    sort(temp.begin(),temp.end());
-    if(k>temp.size()){
-        return -1;
-    }
-    return temp[k-1];    
+        return pq.top();
     }
 };
