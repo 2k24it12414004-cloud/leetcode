@@ -1,13 +1,12 @@
 class Solution {
 public:
-//rg bekar approach can done my prefix sum
+//prefix sum concept add prevous sum same array ma and add
+//i=1 to n for loop only changes
     vector<int> runningSum(vector<int>& nums) {
         int n=nums.size();
-        vector<int>res(n);
-        res[0]=nums[0];
-        for(int i=1;i<nums.size();i++){
-         res[i]=res[i-1]+nums[i];
+        for(int i=1;i<n;i++){
+            nums[i]=nums[i]+nums[i-1];
         }
-        return res;
+        return nums;
     }
 };
