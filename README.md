@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1046-last-stone-weight) |
+| [1480-running-sum-of-1d-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -145,5 +146,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
