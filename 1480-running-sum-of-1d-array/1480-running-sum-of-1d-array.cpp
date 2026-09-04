@@ -1,0 +1,13 @@
+class Solution {
+public:
+//rg bekar approach can done my prefix sum
+    vector<int> runningSum(vector<int>& nums) {
+        int n=nums.size();
+        vector<int>res(n);
+        res[0]=nums[0];
+        for(int i=1;i<nums.size();i++){
+         res[i]=res[i-1]+nums[i];
+        }
+        return res;
+    }
+};
