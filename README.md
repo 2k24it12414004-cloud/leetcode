@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3870-count-commas-in-range](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Design
 |  |
 | ------- |
@@ -162,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0371-sum-of-two-integers) |
+## Greedy
+|  |
+| ------- |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Game Theory
+|  |
+| ------- |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
