@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -87,20 +88,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Two Pointers
 |  |
 | ------- |
