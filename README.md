@@ -88,23 +88,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Two Pointers
 |  |
