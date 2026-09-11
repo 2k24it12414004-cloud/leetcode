@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0175-combine-two-tables) |
+| [0596-classes-with-at-least-5-students](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 ## Bit Manipulation
 |  |
 | ------- |
