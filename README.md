@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Design
