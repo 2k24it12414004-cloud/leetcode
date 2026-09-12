@@ -1,33 +1,30 @@
 class Solution {
 public:
-//rg
     int maxSatisfaction(vector<int>& satisfaction) {
+        //sort then pivot suffix sum
         sort(satisfaction.begin(),satisfaction.end());
         //suffix sum
         int n=satisfaction.size();
-        vector<int>suffix(n);
-        suffix[n-1]=satisfaction[n-1];
+        vector<int>suf(n);
+        suf[n-1]=satisfaction[n-1];
         for(int i=n-2;i>=0;i--){
-            suffix[i]=suffix[i+1]+satisfaction[i];
+            suf[i]=suf[i+1]+satisfaction[i];
         }
-//pivot index jaha se positive milana start hua vaha se loop n tak
-int id=-1;
-for(int i=0;i<n;i++){
-    if(suffix[i]>0){
-        id=i;
-        break;
-    }
-
-}
-if(id==-1)
-return 0;
-//varna loop idx to n
-int x=1;
-int maxsum=0;
-for(int i=id;i<n;i++){
-        maxsum=maxsum+satisfaction[i]*x;
-    x++;
-}
-return maxsum;
+   //calculate positive jaya se sstart ho vo pivot element
+   //from suffix sum
+   int id=-1;
+   for(int i=0;i<n;i++){
+    if(suf[i]>0){
+    id=i;
+    break;}
+   }
+   if(id==-1)return 0;
+   int p=1;
+   int sum=0;
+   for(int i=id;i<n;i++){
+   sum=sum+satisfaction[i]*p;
+   p++;
+   }
+return sum;
     }
 };
