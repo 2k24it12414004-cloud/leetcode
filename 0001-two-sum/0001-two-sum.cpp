@@ -1,25 +1,18 @@
 class Solution {
 public:
-//learn it
     vector<int> twoSum(vector<int>& nums, int target) {
         int n=nums.size();
-        vector<pair<int,int>>numswithindex;
+        map<int,int>mp;
         for(int i=0;i<n;i++){
-            numswithindex.push_back({nums[i],i});
+            int search=target-nums[i];
+            if(mp.find(search)!=mp.end())
+        {
+            int id2=mp[search];
+            return {id2,i};
         }
-        sort(numswithindex.begin(),numswithindex.end());
-        int left=0;
-        int right=n-1;
-        while(left<right){
-            int sum=numswithindex[left].first+numswithindex[right].first;
-            if(sum==target){
-                return {numswithindex[left].second,numswithindex[right].second};}
-            else if(sum<target)
-            left++;
-            else
-            right--;
+            mp.insert({nums[i],i});
+
         }
-        
-        return {-1,-1};
+        return {};
     }
 };
