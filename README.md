@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
