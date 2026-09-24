@@ -5,24 +5,21 @@ public:
         int j=0;
         int n=nums.size();
         int sum=0;
-        int len;
-        int minlen=INT_MAX;
-        //find minimum length subarray jinka sum == target
+        int maxlen=INT_MAX;
         while(j<n){
-      sum=sum+nums[j];
-      while(sum>=target){
-        //jab tak big hai sum not if important
-        len=j-i+1;
-        minlen=min(minlen,len);
-        //remove element from sum i ko bhi remove kiya
-        sum=sum-nums[i];
-        //next element
-        i++;
-      }
-     j++;
+       sum=sum+nums[j];
+          while(sum>=target){
+            int len=j-i+1;
+            maxlen=min(maxlen,len);
+            sum=sum-nums[i];
+            i++;
+            //puran sum ki value remove kiya idx aage bada
+          }
+          j++;
         }
-        if(minlen==INT_MAX)
+        if(maxlen==INT_MAX)
+        //10 times 1 ho target 11 so case edge
         return 0;
-        return minlen;
+        return maxlen;
     }
 };
