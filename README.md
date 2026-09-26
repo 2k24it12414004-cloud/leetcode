@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1402-reducing-dishes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2706-buy-two-chocolates) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
