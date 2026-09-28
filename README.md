@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
