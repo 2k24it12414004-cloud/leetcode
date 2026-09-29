@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0041-first-missing-positive) |
+| [0204-count-primes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -261,4 +263,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
