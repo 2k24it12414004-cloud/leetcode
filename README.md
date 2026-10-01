@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
