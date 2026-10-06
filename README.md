@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0856-score-of-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1402-reducing-dishes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1402-reducing-dishes) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
