@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0412-fizz-buzz) |
 | [0973-k-closest-points-to-origin](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0856-score-of-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Graph Theory
 |  |
