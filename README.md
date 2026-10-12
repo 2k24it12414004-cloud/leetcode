@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0371-sum-of-two-integers) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2706-buy-two-chocolates) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Game Theory
 |  |
 | ------- |
