@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0412-fizz-buzz) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
