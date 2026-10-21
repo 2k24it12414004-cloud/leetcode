@@ -5,8 +5,8 @@ public:
         long long j=sqrt(c);
         while(i<=j){
     //  long long ans=(i+j)*(i+j)-2*i*j;
-    long long ans = i * i + j * j;
-
+  //  long long ans = i * i + j * j;
+long long ans = (i+j)*(i+j)-2*i*j;
 
             if(ans==c){
                 return true;
