@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0367-valid-perfect-square) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
