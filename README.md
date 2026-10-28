@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2706-buy-two-chocolates) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0658-find-k-closest-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
