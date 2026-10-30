@@ -12,9 +12,12 @@ public:
                 st.push(s[i]);
             }
         }
-        string ch = "";
+        //string ch = "";
+        string ch;
+        //o(n^2) time complexity is when used ch=ch+st.top()
         while (st.size() > 0) {
-            ch = ch + st.top();
+         //   ch = ch + st.top();
+           ch.push_back(st.top());
             st.pop();
         }
         reverse(ch.begin(),ch.end());
