@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3978-unique-middle-element](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3978-unique-middle-element](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3978-unique-middle-element) |
 ## String
 |  |
 | ------- |
