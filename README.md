@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1971-find-if-path-exists-in-graph](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bracket Sequences
 |  |
