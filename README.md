@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0451-sort-characters-by-frequency) |
