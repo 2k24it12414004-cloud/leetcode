@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1402-reducing-dishes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1402-reducing-dishes) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
