@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
