@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2409-count-days-spent-together](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2409-count-days-spent-together) |
 | [2544-alternating-digit-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2544-alternating-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/2k24it12414004-cloud/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Geometry
 |  |
 | ------- |
@@ -355,11 +358,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0204-count-primes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
