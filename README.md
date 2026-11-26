@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2409-count-days-spent-together](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2409-count-days-spent-together) |
 | [2544-alternating-digit-sum](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2544-alternating-digit-sum) |
+| [3360-stone-removal-game](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3870-count-commas-in-range) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/2k24it12414004-cloud/leetcode/tree/master/0412-fizz-buzz) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/2k24it12414004-cloud/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Graph Theory
 |  |
